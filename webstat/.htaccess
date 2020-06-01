@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/d.gclub.men/webstat"
+AuthUserFile /home/www/id11253/data/etc/5378733.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

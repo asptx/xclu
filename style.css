@@ -1,0 +1,34 @@
+    {
+        --global_main_color: #2acbd2;
+        --home_text_color: #ffffff;
+        --home_third_background_color: #000000;
+        --home_custom_image_size: px;
+        --home_text_size_px: 100px;
+        --home_text_size_2_px: 100px;
+        --slogan_text_size_px: 29px;
+        --home_text_size: 100;
+        --home_text_size_2: 100;
+        --slogan_text_size: 29;
+        --home_text_size_px_media: 100px;
+        --home_text_size_2_px_media: 100px;
+        --slogan_text_size_px_media: 29px;
+        --layout_text_align: left;
+        --layout_text_align_rtl: right;
+        --layout_text_box_width: 100%;
+        --layout_left_side_width: 50%;
+        --layout_left_side_width_vh: 50vh;
+        --homepage_layout_height: 100%;
+        --homepage_layout_height_vh: 100vh;
+        --homepage_layout_height_menu_space: 0px;
+        --mainNavMobileHeight: 0px;
+        --homepage_layout_height_opacity_space_top: 0px;
+        --homepage_layout_height_opacity_space_bottom: 0px;
+        --mobileMenuFontSize: 20px;
+        --mobileMenuPagesSpace: 5px;
+        --homepageShapeDividerList_Size: 17%;
+        --homepage_goal_space: 20px;
+        --homepage_second_goal_space: 20px;
+        --layout_bottom_spacing: 0px;
+        --window-height: 100vh;
+        --window-width: 100vw;
+    } 
